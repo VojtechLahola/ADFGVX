@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ADFGVX/ADFGVX.csproj" />
+  <Project Path="ADFGVX.Tests/ADFGVX.Tests.csproj" />
+</Solution>
